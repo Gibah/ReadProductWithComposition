@@ -1,0 +1,16 @@
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ReadProductCompositionProject.exe
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ReadProductCompositionProject.deps.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ReadProductCompositionProject.runtimeconfig.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ReadProductCompositionProject.runtimeconfig.dev.json
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ReadProductCompositionProject.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ref\ReadProductCompositionProject.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\bin\Debug\net5.0\ReadProductCompositionProject.pdb
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.AssemblyInfo.cs
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ref\ReadProductCompositionProject.dll
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.pdb
+C:\Users\g.da.silva.franca\Downloads\POO C#\secao9\ReadProductCompositionProject\ReadProductCompositionProject\obj\Debug\net5.0\ReadProductCompositionProject.genruntimeconfig.cache
